@@ -541,7 +541,7 @@ section .title::after{
     display: none;
 }
 .c-3{
-  color: #5c32e7;
+  color: #00BFFF;
 
 }
 .services .serv-content .card .box:hover img{
@@ -746,7 +746,7 @@ section .title::after{
     font-weight: 500;
 }
 .contact .contact-content .info .sub-title{
-    color: #5c32e7; #f1bf46;
+    color: #00BFFF; #f1bf46;
 }
 .contact .contact-content .info .sub-title:hover {
     color: var(--first-color)
@@ -756,7 +756,7 @@ section .title::after{
 }
 .contact .contact-content .info .sub-title a{
 
-    color: #5c32e7;
+    color: #00BFFF;
 }
 .contact .right form .fields{
     display: flex;
@@ -1115,9 +1115,9 @@ body {
   color: var(--color-4);
 }
 body[data-theme="light"] {
-  --first-color: #DBDBDB;
+  --first-color: #FFC0CB;
   --second-color: #FFF;
-  --lightgrey:#DBDBDB;
+  --lightgrey:#FFC0CB;
   --color-1: rgb(196, 220, 241);
   --color-2: white;
   --color-3: white;

@@ -1124,7 +1124,7 @@ body[data-theme="light"] {
   --color-4: rgb(80, 82, 110);
 }
 body[data-theme="dark"] {
-  --first-color: #DC143C;
+  --first-color: #00BFFF;
   --second-color: #111;
   --lightgrey: lightgrey;
   --white: #c0c0c0;

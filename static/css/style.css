@@ -318,11 +318,7 @@ section{
     align-items: center;
     justify-content: space-between;
 }
-.contact-content .column.left{
-    padding: 1.5rem;
-}
-
-.contact-content .column.right{
+.contact-content .column{
     padding: 1.5rem;
 }
 section .title{

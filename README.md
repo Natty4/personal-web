@@ -5,6 +5,6 @@
 
 # Pesonal Website By Nathnael
 
-## [Open on Browser](https://natty4.github.io)
+## [Open on Browser](https://natty4.github.io/personal-web)
 
 Personal Webasite Hackathon🏃‍♀️ CSEC-ASTU 2021 

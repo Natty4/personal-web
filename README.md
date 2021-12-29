@@ -1,7 +1,8 @@
 
+![Screenshot_2021-07-18 Natty Personal Portfolio Website(3)](https://github.com/Natty4/personal-web/blob/1058fc7e443bceea2d9b1b1903c0c2ef58896f64/static/img/Screenshot%202021-12-29%20at%2018-41-56%20Natty%20Personal%20Website.png)
+![Screenshot_2021-07-18 Natty Personal Portfolio Website](https://github.com/Natty4/personal-web/blob/1058fc7e443bceea2d9b1b1903c0c2ef58896f64/static/img/Screenshot%202021-12-29%20at%2018-40-46%20Natty%20Personal%20Website.png)
+![Screenshot_2021-07-18 Natty Personal Portfolio Website](https://github.com/Natty4/personal-web/blob/1058fc7e443bceea2d9b1b1903c0c2ef58896f64/static/img/Screenshot%202021-12-29%20at%2018-41-41%20Natty%20Personal%20Website.png)
 
-![Screenshot_2021-07-18 Natty Personal Portfolio Website](https://user-images.githubusercontent.com/56716832/126071168-627164eb-cb7c-404a-954d-86ffe1c3f00c.jpg)
-![Screenshot_2021-07-18 Natty Personal Portfolio Website](https://user-images.githubusercontent.com/56716832/126071171-a1a23cc5-93f0-41d7-b088-c65c9b83cda7.png)![Screenshot_2021-07-18 Natty Personal Portfolio Website(3)](https://user-images.githubusercontent.com/56716832/126071294-a1a366df-9f3c-41e0-bd7c-36bfb047b3cf.jpg)
 
 # Pesonal Website By Nathnael
 
